@@ -12,7 +12,7 @@ Installation
 DataManager is available through CocoaPods. To install it, simply add the following line to your Podfile:
 
 ```swift
-pod 'DataManagerRxSwift'
+pod 'DataManagerRxSwift', '~> 1.0.1'
 ```
 
 Usage
