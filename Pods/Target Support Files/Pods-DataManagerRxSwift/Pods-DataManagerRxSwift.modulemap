@@ -1,0 +1,6 @@
+framework module Pods_DataManagerRxSwift {
+  umbrella header "Pods-DataManagerRxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
